@@ -1,16 +1,4 @@
-/* JS Document */
 
-/******************************
-
-[Table of Contents]
-
-1. Vars and Inits
-2. Set Header
-3. Init Header Search
-4. Init Menu
-
-
-******************************/
 
 $(document).ready(function()
 {
